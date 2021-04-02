@@ -1,0 +1,10 @@
+.checkout_btn button {
+  background-color: #6946f4;
+  width: 150px;
+  height: 50px;
+  color: white;
+  border: none;
+}
+.checkout_btn button:hover {
+  background-color: #3300ff;
+}

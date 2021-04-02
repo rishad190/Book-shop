@@ -1,0 +1,31 @@
+.side_box {
+  position: absolute;
+  background-color: #19103f;
+  width: 350px;
+  height: 900px;
+}
+.side_logo img {
+  width: 50%;
+}
+.link_box_side {
+  display: flex;
+  flex-direction: column;
+  text-decoration: none;
+  justify-content: center;
+  align-items: center;
+}
+.link_box_side:hover {
+  text-decoration: none;
+}
+.link_box_side a {
+  color: white;
+}
+.link_box_side a:hover {
+  text-decoration: none;
+  background-color: white;
+  color: black;
+}
+.link_box_side a img {
+  width: 25%;
+  padding-right: 10px;
+}

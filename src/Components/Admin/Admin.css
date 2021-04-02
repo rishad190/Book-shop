@@ -1,0 +1,25 @@
+.form_box form {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  border: 1px solid lightgray;
+  padding: 15px;
+}
+.form_box input {
+  width: 350px;
+
+  border: 1px solid lightgray;
+}
+.all_in_one {
+  display: flex;
+  flex-direction: column;
+  font-size: 17px;
+  width: 400px;
+  margin-bottom: 10px;
+}
+.btn_sub input {
+  background-color: #e3dcff;
+
+  height: 50px;
+}

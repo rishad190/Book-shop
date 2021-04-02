@@ -1,0 +1,12 @@
+a,
+a:hover {
+  text-decoration: none;
+  padding: 15px;
+}
+.navbar .navbar-expand-lg .navbar-light {
+  padding-left: 30px;
+}
+a img {
+  width: 50%;
+  border-radius: 50%;
+}
