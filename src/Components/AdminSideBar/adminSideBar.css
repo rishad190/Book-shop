@@ -29,3 +29,10 @@
   width: 25%;
   padding-right: 10px;
 }
+@media (min-width: 422px) and (max-width: 767.98px) {
+  .side_box {
+    background-color: black;
+    width: 410px;
+    height: 200px;
+  }
+}

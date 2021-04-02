@@ -1,6 +1,7 @@
 import React, { useEffect, useState } from "react";
 import { Col, Container, Row, Table } from "react-bootstrap";
 import AdminAction from "../AdminAction/AdminAction";
+import "./ManageBook.css";
 
 const ManageBook = () => {
   const [manage, setManage] = useState([]);
@@ -16,7 +17,7 @@ const ManageBook = () => {
     <div>
       <Container>
         <Row>
-          <Col>
+          <Col className="table_box">
             <Table striped bordered hover>
               <thead>
                 <tr>

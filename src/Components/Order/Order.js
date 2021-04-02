@@ -21,7 +21,7 @@ const Order = () => {
     <div>
       <Container>
         <Row>
-          <Col>
+          <Col className="table_box2">
             <Table striped bordered hover>
               <thead>
                 <tr>

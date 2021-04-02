@@ -10,3 +10,9 @@ a img {
   width: 50%;
   border-radius: 50%;
 }
+@media (min-width: 422px) and (max-width: 767.98px) {
+  a img {
+    width: 15%;
+    border-radius: 50%;
+  }
+}
