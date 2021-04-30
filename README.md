@@ -1,6 +1,9 @@
-#BookShop
-#Feature of bookshop
-1)Add book to buy now
-2)show book info dynamic
-3)check from page it will save the book data in order page
-4)Admin can manage page from admin panel
+# BookShop
+# Feature of bookshop
+
+•	Created a full-stack web app that allows users to purchase a book and save all book purchasing data to their dashboard.
+•	Only the administrator has access to the admin panel and can add, delete, and change all book information. All book information is saved in a database, and all data is dynamically displayed on the home page.
+•	Used: JavaScript, React, Mongo DB, Express, React router, HTML/CSS   
+
+# Live Link
+https://bookshop-73758.web.app/ 
